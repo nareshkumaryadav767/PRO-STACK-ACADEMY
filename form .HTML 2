@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Loginin page</title>
+</head>
+<form>
+<label>Email</label>
+<input       /> <br><br>
+<label> Password</label>
+<input     />   <br><br>
+<button> Login </button>
+</form>
